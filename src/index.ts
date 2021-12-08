@@ -1,4 +1,4 @@
 import Library from './Library';
-import LifeCycle from './LifeCycle';
+import App from './App';
 
-export { Library, LifeCycle }
+export { Library, App }
